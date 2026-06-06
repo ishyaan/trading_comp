@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+sim_re/__init__.py
+sim_re/analyze.py
+sim_re/demo.py
+sim_re/dgp_zoo.py
+sim_re/evaluation.py
+sim_re/fingerprint.py
+sim_re/signature.py
+sim_re.egg-info/PKG-INFO
+sim_re.egg-info/SOURCES.txt
+sim_re.egg-info/dependency_links.txt
+sim_re.egg-info/entry_points.txt
+sim_re.egg-info/requires.txt
+sim_re.egg-info/top_level.txt
+tests/test_router.py

@@ -4,7 +4,7 @@ This repository contains my work for the quantitative trading competition.
 
 ## Goal
 
-Reverse-engineer the simulated market, choose a suitable strategy, validate it, and trade with disciplined risk management.
+Analyse the simulated market, choose a suitable strategy, validate it, and trade with disciplined risk management.
 
 ## Main workflow
 

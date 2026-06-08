@@ -20,3 +20,7 @@ secrets.yaml
 .DS_Store
 .vscode/
 .idea/
+
+*.egg-info/
+build/
+dist/
